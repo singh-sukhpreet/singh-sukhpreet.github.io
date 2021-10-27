@@ -1,2 +1,2 @@
-# sukhpreetsingh.github.io
+# singh-sukhpreet.github.io/
 Portfolio: Sukhpreet Singh
